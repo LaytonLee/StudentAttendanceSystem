@@ -1,0 +1,2 @@
+# StudentAttendanceSystem
+基于NAO机器人的考勤系统，提供了web平台的考勤数据展示与分析，NAO机器人平台的考勤
